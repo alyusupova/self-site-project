@@ -46,7 +46,11 @@ education:
     summary: |
       Студентка первого курса направления "Компьютерные науки".
 
-experience: []
+experience: 
+  - company: Учебный проект РУДН
+    position: Разработчик (Студент)
+    start_date: 2025-10-01
+    summary: Создала сайт на основе HTML, CSS, C++.
 
 skills:
   - name: Технические навыки
@@ -66,4 +70,7 @@ languages:
     level: 4
     label: Средний
 
-awards: []
+awards: 
+- title: Сертификат Stepik
+  date: 2025-12-01
+  awarder: Stepik
